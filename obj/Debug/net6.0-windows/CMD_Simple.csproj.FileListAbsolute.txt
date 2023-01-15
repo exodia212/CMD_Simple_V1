@@ -1,0 +1,17 @@
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.csproj.AssemblyReference.cache
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.Form1.resources
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.csproj.GenerateResource.cache
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.AssemblyInfoInputs.cache
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.AssemblyInfo.cs
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.csproj.CoreCompileInputs.cache
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\bin\Debug\net6.0-windows\CMD_Simple.exe
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\bin\Debug\net6.0-windows\CMD_Simple.deps.json
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\bin\Debug\net6.0-windows\CMD_Simple.runtimeconfig.json
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\bin\Debug\net6.0-windows\CMD_Simple.dll
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\bin\Debug\net6.0-windows\CMD_Simple.pdb
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.dll
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\refint\CMD_Simple.dll
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.pdb
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\CMD_Simple.genruntimeconfig.cache
+C:\Users\lenna\source\repos\CMD_Simple\CMD_Simple\obj\Debug\net6.0-windows\ref\CMD_Simple.dll
